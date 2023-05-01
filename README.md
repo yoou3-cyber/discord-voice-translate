@@ -19,6 +19,6 @@ Another way to use bot is use through context-menu<br>
 text above is a joke and just a testing of bot!!!<br>
 
 # Contact info
-Discord tag - xeon-m#7477
-Discord server - https://discord.gg/qX5dwV3HEp
-Reddit - https://www.reddit.com/user/Prestigious-Wealth49
+Discord tag - xeon-m#7477 <br>
+Discord server - https://discord.gg/qX5dwV3HEp <br>
+Reddit - https://www.reddit.com/user/Prestigious-Wealth49 <br>
