@@ -6,7 +6,7 @@ import speech_recognition as sr
 from pydub import AudioSegment
 from config import token, prefix
 
-bot = commands.Bot(command_prefix=prefix, intents=disnake.Intents.all())
+bot = commands.Bot(command_prefix=prefix, intents=disсord.Intents.all())
 
 @bot.event
 async def on_ready():
